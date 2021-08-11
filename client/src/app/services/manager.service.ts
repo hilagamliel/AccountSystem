@@ -22,7 +22,7 @@ export class ManagerService {
         });
         setTimeout(()=>{
         AccountWithPersonals.Account.Id=parseInt(data.id);
-        this.PersonalInAccount.AddPersonalsInAccount(AccountWithPersonals);},10);
+        this.PersonalInAccount.AddPersonalsInAccount(AccountWithPersonals);},20);
       });
       
     }
