@@ -1,0 +1,33 @@
+<div class="centerForm">
+    <form #myForm="ngForm" (ngSubmit)="SubmitAdd()" class="example-form place">
+        <mat-form-field class="width">
+            <input matInput placeholder="שם חשבון כללי" name="Name" required [(ngModel)]="account.Name" #Name="ngModel">
+        </mat-form-field>
+        <mat-form-field class="width">
+            <input matInput placeholder="דמי ניהול" name="ManagementFee" type="number" required
+                [(ngModel)]="account.ManagementFee" #ManagementFee="ngModel">
+        </mat-form-field>
+        <p>
+            <mat-form-field class="width">
+                <input matInput placeholder="מספר בנק" name="BankNumber" type="number" required
+                    [(ngModel)]="account.BankNumber" #BankNumber="ngModel">
+            </mat-form-field>
+            <mat-form-field class="width">
+                <input matInput placeholder="מספר חשבון בנק" min="0" type="number" name="BankAccountNumber" required
+                    [(ngModel)]="account.BankAccountNumber" #BankAccountNumber="ngModel">
+            </mat-form-field>
+            <label>
+                <mat-form-field class="width">
+                    <mat-select name="IdInvestmentPolicyTypes" value="1" requierd
+                        [(ngModel)]="account.IdInvestmentPolicyTypes" #IdInvestmentPolicyTypes="ngModel">
+                        <mat-option *ngFor="let type of InvestmentPolicyTypes" [value]="type.id">
+                            {{type.name}}
+                        </mat-option>
+                    </mat-select>
+                </mat-form-field>מדיניות השקעה</label>
+        </p>
+
+        <button mat-raised-button class="width" color="accent" type="submit"
+            [disabled]="!myForm.valid||!IfAddAccount">הוסף חשבון</button>
+    </form>
+</div>

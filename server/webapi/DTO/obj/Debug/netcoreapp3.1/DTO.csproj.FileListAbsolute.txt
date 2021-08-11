@@ -1,0 +1,33 @@
+W:\כתות ו\הנדסת תוכנה\מורות\net\שיעור 20 - web api core\webapi\DTO\bin\Debug\netcoreapp3.1\DTO.deps.json
+W:\כתות ו\הנדסת תוכנה\מורות\net\שיעור 20 - web api core\webapi\DTO\bin\Debug\netcoreapp3.1\DTO.dll
+W:\כתות ו\הנדסת תוכנה\מורות\net\שיעור 20 - web api core\webapi\DTO\bin\Debug\netcoreapp3.1\DTO.pdb
+W:\כתות ו\הנדסת תוכנה\מורות\net\שיעור 20 - web api core\webapi\DTO\obj\Debug\netcoreapp3.1\DTO.csprojAssemblyReference.cache
+W:\כתות ו\הנדסת תוכנה\מורות\net\שיעור 20 - web api core\webapi\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfoInputs.cache
+W:\כתות ו\הנדסת תוכנה\מורות\net\שיעור 20 - web api core\webapi\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfo.cs
+W:\כתות ו\הנדסת תוכנה\מורות\net\שיעור 20 - web api core\webapi\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CoreCompileInputs.cache
+W:\כתות ו\הנדסת תוכנה\מורות\net\שיעור 20 - web api core\webapi\DTO\obj\Debug\netcoreapp3.1\DTO.dll
+W:\כתות ו\הנדסת תוכנה\מורות\net\שיעור 20 - web api core\webapi\DTO\obj\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\user1\Downloads\test in control\server\webapi\DTO\bin\Debug\netcoreapp3.1\DTO.deps.json
+C:\Users\user1\Downloads\test in control\server\webapi\DTO\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\user1\Downloads\test in control\server\webapi\DTO\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\user1\Downloads\test in control\server\webapi\DTO\obj\Debug\netcoreapp3.1\DTO.csprojAssemblyReference.cache
+C:\Users\user1\Downloads\test in control\server\webapi\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfoInputs.cache
+C:\Users\user1\Downloads\test in control\server\webapi\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfo.cs
+C:\Users\user1\Downloads\test in control\server\webapi\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CoreCompileInputs.cache
+C:\Users\user1\Downloads\test in control\server\webapi\DTO\obj\Debug\netcoreapp3.1\DTO.dll
+C:\Users\user1\Downloads\test in control\server\webapi\DTO\obj\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\user1\Downloads\test in control\server\webapi\DTO\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\user1\Downloads\test in control\server\webapi\DTO\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\user1\Downloads\test in control\server\webapi\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CopyComplete
+C:\Users\user1\Downloads\webapi\DTO\bin\Debug\netcoreapp3.1\DTO.deps.json
+C:\Users\user1\Downloads\webapi\DTO\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\user1\Downloads\webapi\DTO\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\user1\Downloads\webapi\DTO\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\user1\Downloads\webapi\DTO\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\user1\Downloads\webapi\DTO\obj\Debug\netcoreapp3.1\DTO.csprojAssemblyReference.cache
+C:\Users\user1\Downloads\webapi\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfoInputs.cache
+C:\Users\user1\Downloads\webapi\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfo.cs
+C:\Users\user1\Downloads\webapi\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CoreCompileInputs.cache
+C:\Users\user1\Downloads\webapi\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CopyComplete
+C:\Users\user1\Downloads\webapi\DTO\obj\Debug\netcoreapp3.1\DTO.dll
+C:\Users\user1\Downloads\webapi\DTO\obj\Debug\netcoreapp3.1\DTO.pdb

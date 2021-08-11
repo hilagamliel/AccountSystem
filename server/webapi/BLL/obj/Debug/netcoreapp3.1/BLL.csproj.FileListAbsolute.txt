@@ -1,0 +1,37 @@
+W:\כתות ו\הנדסת תוכנה\מורות\net\שיעור 20 - web api core\webapi\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+W:\כתות ו\הנדסת תוכנה\מורות\net\שיעור 20 - web api core\webapi\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+W:\כתות ו\הנדסת תוכנה\מורות\net\שיעור 20 - web api core\webapi\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+W:\כתות ו\הנדסת תוכנה\מורות\net\שיעור 20 - web api core\webapi\BLL\obj\Debug\netcoreapp3.1\BLL.csprojAssemblyReference.cache
+W:\כתות ו\הנדסת תוכנה\מורות\net\שיעור 20 - web api core\webapi\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+W:\כתות ו\הנדסת תוכנה\מורות\net\שיעור 20 - web api core\webapi\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+W:\כתות ו\הנדסת תוכנה\מורות\net\שיעור 20 - web api core\webapi\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+W:\כתות ו\הנדסת תוכנה\מורות\net\שיעור 20 - web api core\webapi\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+W:\כתות ו\הנדסת תוכנה\מורות\net\שיעור 20 - web api core\webapi\BLL\obj\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\user1\Downloads\test in control\server\webapi\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+C:\Users\user1\Downloads\test in control\server\webapi\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Users\user1\Downloads\test in control\server\webapi\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\user1\Downloads\test in control\server\webapi\BLL\obj\Debug\netcoreapp3.1\BLL.csprojAssemblyReference.cache
+C:\Users\user1\Downloads\test in control\server\webapi\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+C:\Users\user1\Downloads\test in control\server\webapi\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+C:\Users\user1\Downloads\test in control\server\webapi\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+C:\Users\user1\Downloads\test in control\server\webapi\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+C:\Users\user1\Downloads\test in control\server\webapi\BLL\obj\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\user1\Downloads\test in control\server\webapi\BLL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\user1\Downloads\test in control\server\webapi\BLL\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\user1\Downloads\test in control\server\webapi\BLL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\user1\Downloads\test in control\server\webapi\BLL\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\user1\Downloads\test in control\server\webapi\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
+C:\Users\user1\Downloads\webapi\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+C:\Users\user1\Downloads\webapi\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Users\user1\Downloads\webapi\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\user1\Downloads\webapi\BLL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\user1\Downloads\webapi\BLL\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\user1\Downloads\webapi\BLL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\user1\Downloads\webapi\BLL\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\user1\Downloads\webapi\BLL\obj\Debug\netcoreapp3.1\BLL.csprojAssemblyReference.cache
+C:\Users\user1\Downloads\webapi\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+C:\Users\user1\Downloads\webapi\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+C:\Users\user1\Downloads\webapi\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+C:\Users\user1\Downloads\webapi\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
+C:\Users\user1\Downloads\webapi\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+C:\Users\user1\Downloads\webapi\BLL\obj\Debug\netcoreapp3.1\BLL.pdb

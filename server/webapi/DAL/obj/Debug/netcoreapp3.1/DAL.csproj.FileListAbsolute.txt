@@ -1,0 +1,27 @@
+W:\כתות ו\הנדסת תוכנה\מורות\net\שיעור 20 - web api core\webapi\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+W:\כתות ו\הנדסת תוכנה\מורות\net\שיעור 20 - web api core\webapi\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+W:\כתות ו\הנדסת תוכנה\מורות\net\שיעור 20 - web api core\webapi\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+W:\כתות ו\הנדסת תוכנה\מורות\net\שיעור 20 - web api core\webapi\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
+W:\כתות ו\הנדסת תוכנה\מורות\net\שיעור 20 - web api core\webapi\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+W:\כתות ו\הנדסת תוכנה\מורות\net\שיעור 20 - web api core\webapi\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+W:\כתות ו\הנדסת תוכנה\מורות\net\שיעור 20 - web api core\webapi\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+W:\כתות ו\הנדסת תוכנה\מורות\net\שיעור 20 - web api core\webapi\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+W:\כתות ו\הנדסת תוכנה\מורות\net\שיעור 20 - web api core\webapi\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\user1\Downloads\test in control\server\webapi\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+C:\Users\user1\Downloads\test in control\server\webapi\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\user1\Downloads\test in control\server\webapi\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\user1\Downloads\test in control\server\webapi\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
+C:\Users\user1\Downloads\test in control\server\webapi\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+C:\Users\user1\Downloads\test in control\server\webapi\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+C:\Users\user1\Downloads\test in control\server\webapi\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+C:\Users\user1\Downloads\test in control\server\webapi\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+C:\Users\user1\Downloads\test in control\server\webapi\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\user1\Downloads\webapi\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+C:\Users\user1\Downloads\webapi\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\user1\Downloads\webapi\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\user1\Downloads\webapi\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
+C:\Users\user1\Downloads\webapi\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+C:\Users\user1\Downloads\webapi\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+C:\Users\user1\Downloads\webapi\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+C:\Users\user1\Downloads\webapi\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+C:\Users\user1\Downloads\webapi\DAL\obj\Debug\netcoreapp3.1\DAL.pdb

@@ -1,0 +1,20 @@
+export class Account {
+    Id:number;
+    Name:string;
+    ManagementFee:number;
+    BankNumber:number;
+    BankAccountNumber:number;
+    NameInvestmentPolicyTypes:string;
+    IdInvestmentPolicyTypes:number;
+    constructor(Id?:number,Name?:string,ManagementFee?:number,
+        BankNumber?:number,BankAccountNumber?:number,NameInvestmentPolicyTypes?:string,
+        IdInvestmentPolicyTypes?:number){
+            this.Id=Id;
+            this.Name=Name;
+            this.ManagementFee=ManagementFee;
+            this.BankNumber=BankNumber;
+            this.BankAccountNumber=BankAccountNumber;
+            this.NameInvestmentPolicyTypes=NameInvestmentPolicyTypes;
+            this.IdInvestmentPolicyTypes=IdInvestmentPolicyTypes;
+    }
+}

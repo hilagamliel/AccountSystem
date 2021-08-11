@@ -1,0 +1,60 @@
+.PutRed{
+    border-color: red;
+  
+  }form .ng-invalid{
+    border: 2px solid white;
+    box-shadow: 0px 0px 5px white; 
+  }
+  form .ng-valid{
+     border: 2px solid white; 
+  }
+  form .ng-untouched{
+    border: 2px solid white;
+    border: 2px solid white; 
+  
+  }form .ng-star-inserted{
+    font-size: 0.8vw;
+  }.example-form {
+    border-collapse:collapse;
+    border-style: hidden;
+  }
+  
+  .example-full-width {
+    border-collapse:collapse;
+    border-style: hidden; 
+    border-color: white;
+    display: inline-block;
+  }
+  form[_ngcontent-cgh-c82] .ng-valid[_ngcontent-cgh-c82] {
+    border: 0px solid white;
+  }
+  form[_ngcontent-bqv-c82] .ng-invalid[_ngcontent-bqv-c82] {
+    border: 2px gray;
+    box-shadow: 0px 0px 5px black;
+  }.mat-form-field {
+    text-align: center;
+  }.example-full-width[_ngcontent-ubx-c82] {
+    border-collapse: collapse;
+    border-style: hidden;
+    border-color: white;
+    display: inline-block;
+    width: 27vw;
+  }.size{
+    position: relative;
+    top: -24vh;
+    left: 52vw;
+  }.example-full-width{
+    width: 24vw;
+    margin-left: 6vw;
+  }.place{
+    position: relative;
+    top: 7vh;
+    right: -30vw;
+    direction: rtl;
+    width: 43vw;
+  }.width{
+    width: 100%;
+    direction: rtl;
+  }.width2{
+    width: 50%;
+  }

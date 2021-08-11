@@ -1,0 +1,25 @@
+<div *ngIf="countAccount!=4">
+<app-form-account *ngIf="countAccount!=4" [IfAddAccount]="ifAddAccount" (AddAccount)="AddAccount($event)" ></app-form-account>
+<div class="placeCount">{{countAccount}}<b>    פרטי חשבון</b></div>
+
+
+
+
+
+<app-form-personal *ngIf="countsPersonals[0]!=4" [IdType]="1" [IfAddPersonal]="true" (AddPersonal)="AddPersonal($event)"></app-form-personal>
+<div class="placeCount">{{countsPersonals[0]}}<b>    פרטי בעלי חשבון</b></div>
+
+<mat-slide-toggle type="checkbox" [(ngModel)]="IfPowerOfAttorney">האם יש מיופי כח בחשבון</mat-slide-toggle>
+
+<app-form-personal *ngIf="countsPersonals[1]!=4" [IdType]="2" [IfAddPersonal]="IfPowerOfAttorney" (AddPersonal)="AddPersonal($event)"></app-form-personal>
+<div class="placeCount">{{countsPersonals[1]}}<b>      פרטי מיופי כח</b></div>
+
+<mat-slide-toggle type="checkbox" [(ngModel)]="IfEnjoy">האם יש נהנים בחשבון</mat-slide-toggle>
+
+<app-form-personal *ngIf="countsPersonals[2]!=4" [IdType]="3"  [IfAddPersonal]="IfEnjoy"  (AddPersonal)="AddPersonal($event)"></app-form-personal>
+<div class="placeCount">{{countsPersonals[2]}}<b>     פרטי נהנים</b></div>
+
+</div>
+<div  *ngIf="countAccount==4">סיימת!</div>
+<button mat-raised-button (click)="Send()" class="width2"color="accent" >שלח לחתימה</button>
+

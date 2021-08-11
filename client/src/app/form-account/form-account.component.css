@@ -1,0 +1,9 @@
+.centerForm{
+    text-align: center;
+    margin-top: -6em;
+}.mat-form-field {
+    display: inline-block;
+    position: relative;
+    text-align: left;
+    margin-left: 4em;
+}

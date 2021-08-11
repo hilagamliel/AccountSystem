@@ -1,0 +1,25 @@
+<form [formGroup]="myForm" (ngSubmit)="SubmitAdd()" class="example-form place">
+    <mat-form-field class="width">
+        <input matInput placeholder="Tz" formControlName="tz" [class.PutRed]="myForm.controls.tz.touched==true&&
+        myForm.controls.tz.status=='INVALID'">
+    </mat-form-field>
+    <mat-form-field class="width">
+        <input matInput placeholder="Name" formControlName="name">
+    </mat-form-field>
+    <mat-form-field class="width">
+        <input matInput placeholder="Address" formControlName="address">
+    </mat-form-field>
+    <p>
+        <mat-form-field class="width">
+            <input matInput type="email" matInput placeholder="Email" formControlName="email">
+        </mat-form-field>
+        <mat-form-field class="width">
+            <input matInput placeholder="Phone" formControlName="phoneNumber" [class.PutRed]="myForm.controls.phoneNumber.touched==true&&
+            myForm.controls.phoneNumber.status=='INVALID'">
+        </mat-form-field>
+    </p>
+   
+    <div class="width">
+        <button mat-raised-button type="submit"class="width2"color="accent" [disabled]="!myForm.valid||!IfAddPersonal">Add</button>
+    </div>
+</form>
